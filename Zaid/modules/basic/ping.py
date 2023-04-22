@@ -74,7 +74,7 @@ async def pingme(client: Client, message: Message):
     except:
        pass
     await xx.edit("**YOU ARE MY FRIEND🤗**")
-    await xx.edit("**40% ████▒▒▒▒▒▒**")
+    await xx.edit("**I AM YOUR LOVE💕**")
     await xx.edit("**60% ██████▒▒▒▒**")
     await xx.edit("**80% ████████▒▒**")
     await xx.edit("**100% ██████████**")
