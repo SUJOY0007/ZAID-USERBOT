@@ -75,13 +75,13 @@ async def pingme(client: Client, message: Message):
        pass
     await xx.edit("**YOU ARE MY FRIEND🤗**")
     await xx.edit("**I AM YOUR LOVE💕**")
-    await xx.edit("**60% ██████▒▒▒▒**")
-    await xx.edit("**80% ████████▒▒**")
-    await xx.edit("**100% ██████████**")
+    await xx.edit("**YOU ARE MY LOVE❤️**")
+    await xx.edit("**I LOVE YOU🥰**")
+    await xx.edit("**YOU LOVE ME ALSO🤩**")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await xx.edit(
-        f"❏ **╰☞ 𝗣𝗢𝗡𝗚™╮**\n"
+        f"❏ **╰☞🖤𝙎𝙐𝙅𝙊𝙔 𝙄𝙎 𝘿𝙀𝘼𝘿 𝘽𝙔 𝙃𝙀𝘼𝙍𝙏🖤™╮**\n"
         f"├• **╰☞** - `%sms`\n"
         f"├• **╰☞ -** `{uptime}` \n"
         f"└• **╰☞:** {client.me.mention}" % (duration)
